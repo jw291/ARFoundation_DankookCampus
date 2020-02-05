@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8B5737D2-AB12-E2B2-9922-CFF29A8BC5B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GPSscript/gyro.cs">
+    <Files>
+      <File FileName="Assets/Script/BuildingClickScript/ClickEvent/InternationalClickEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BuildingClickScript/Highlight/MainHighLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BuildingClickScript/Highlight/InmunHighLight.cs" Line="5" Column="22" />
+      <File FileName="Assets/Script/BuildingClickScript/Highlight/SukJuSunHIghLight.cs" Line="7" Column="24" />
+      <File FileName="Assets/Script/SceneFader.cs" Line="10" Column="22" />
+      <File FileName="Assets/Script/Levelselector.cs" Line="551" Column="25" />
+      <File FileName="Assets/Script/GPSscript/compassRotation.cs" Line="15" Column="34" />
+      <File FileName="Assets/Tutorial/TypeWriterEffect.cs" Line="22" Column="1" />
+      <File FileName="Assets/Demo/TutorialFoundation.cs" Line="15" Column="37" />
+      <File FileName="Assets/Demo/ARTapToPlaceObject.cs" Line="27" Column="6" />
+      <File FileName="Assets/Script/GPSscript/gyro.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
