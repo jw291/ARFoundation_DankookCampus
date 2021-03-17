@@ -1,6 +1,6 @@
 # 단국대학교 캠퍼스AR : 한눈에 보는 단국대학교 캠퍼스
 2019 Echo Project 우수작 나재원/김원종/김지은 <br />
-*Asset은 미포함하여 업로드하였습니다.
+*Asset은 미포함하여 업로드하였습니다.<br />
 ![image](https://user-images.githubusercontent.com/46628101/111518140-21b22080-8799-11eb-86a6-50d4d0a9bb43.png)
 
 - email address : jw_29@naver.com <br />
