@@ -21,7 +21,7 @@
 
 
 ## screenshot
-[모델린 된 대학교 캠퍼스] <br />
+[모델링 된 대학교 캠퍼스] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111518102-1828b880-8799-11eb-8531-b42420764bc5.png)<br />
 
 [플레이 샷] <br />
