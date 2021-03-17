@@ -21,12 +21,12 @@
 
 
 ## screenshot
-[모델린 된 대학교 캠퍼스]
+[모델린 된 대학교 캠퍼스] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111518102-1828b880-8799-11eb-8531-b42420764bc5.png)<br />
 
-[플레이 샷]
+[플레이 샷] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111518666-a13fef80-8799-11eb-8b3c-5cbd1a9abbf0.png)
 
-[상장]
+[상장] <br />
 ![image](https://user-images.githubusercontent.com/46628101/111518399-62119e80-8799-11eb-9381-d95edf558dad.png)
 
